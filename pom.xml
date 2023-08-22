@@ -11,6 +11,10 @@
 
   <name>springcourse</name>
 
+  <modules>
+    <module>02_SpringCore/03_FirstApp(IntelliJ_Idea)/SpringApp1</module>
+  </modules>
+
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>17</maven.compiler.source>
@@ -74,18 +78,6 @@
         </plugin>
       </plugins>
     </pluginManagement>
-    <!--    <plugins>-->
-    <!--      <plugin>-->
-    <!--          <groupId>org.apache.tomcat.maven</groupId>-->
-    <!--          <artifactId>tomcat7-maven-plugin</artifactId>-->
-    <!--          <version>2.2</version>-->
-    <!--        <configuration>-->
-    <!--          <path>/</path>-->
-    <!--          <mode>context</mode>-->
-    <!--          <charset>UTF-8</charset>-->
-    <!--          <warDirectory>target/${project.artifactId}-${project.version}</warDirectory>-->
-    <!--        </configuration>-->
-    <!--      </plugin>-->
-    <!--    </plugins>-->
   </build>
+
 </project>
