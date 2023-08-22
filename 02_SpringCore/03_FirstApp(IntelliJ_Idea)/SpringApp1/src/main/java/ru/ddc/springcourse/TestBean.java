@@ -1,4 +1,4 @@
-package ru.ddc;
+package ru.ddc.springcourse;
 
 public class TestBean {
 

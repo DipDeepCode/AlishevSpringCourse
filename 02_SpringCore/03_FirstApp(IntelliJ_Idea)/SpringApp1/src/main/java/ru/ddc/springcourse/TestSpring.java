@@ -1,4 +1,4 @@
-package ru.ddc;
+package ru.ddc.springcourse;
 
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
