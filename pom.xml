@@ -12,8 +12,8 @@
   <name>springcourse</name>
 
   <modules>
-    <module>02_SpringCore/03_FirstApp(IntelliJ_Idea)/SpringApp1</module>
-    <module>02_SpringCore/05_InversionOfControl/SpringIoCApp1</module>
+    <module>ASC_03_FirstApp</module>
+    <module>ASC_05_InversionOfControl</module>
   </modules>
 
   <properties>

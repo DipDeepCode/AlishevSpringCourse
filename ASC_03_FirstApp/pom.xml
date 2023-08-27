@@ -7,12 +7,10 @@
         <groupId>ru.ddc</groupId>
         <artifactId>AlishevSpringCourse</artifactId>
         <version>1.0-SNAPSHOT</version>
-        <relativePath>../../../pom.xml</relativePath>
+        <relativePath>../pom.xml</relativePath>
     </parent>
 
-    <artifactId>SpringApp1</artifactId>
+    <artifactId>ASC_03_FirstApp</artifactId>
     <packaging>war</packaging>
-
-    <name>SpringApp1 Maven Webapp</name>
 
 </project>
