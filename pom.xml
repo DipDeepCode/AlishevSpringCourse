@@ -16,6 +16,7 @@
     <module>ASC_05_InversionOfControl</module>
     <module>ASC_06_DependencyInjection</module>
     <module>ASC_07_DependencyInjection2</module>
+      <module>ASC_08_BeanScope</module>
   </modules>
 
   <properties>
