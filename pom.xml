@@ -15,6 +15,7 @@
     <module>ASC_03_FirstApp</module>
     <module>ASC_05_InversionOfControl</module>
     <module>ASC_06_DependencyInjection</module>
+    <module>ASC_07_DependencyInjection2</module>
   </modules>
 
   <properties>
