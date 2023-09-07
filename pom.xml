@@ -19,6 +19,7 @@
     <module>ASC_08_BeanScope</module>
     <module>ASC_09_1_BeanLifecycle</module>
     <module>ASC_09_2_FactoryMethod</module>
+    <module>ASC_10_Component</module>
   </modules>
 
   <properties>
