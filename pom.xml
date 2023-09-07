@@ -20,6 +20,7 @@
     <module>ASC_09_1_BeanLifecycle</module>
     <module>ASC_09_2_FactoryMethod</module>
     <module>ASC_10_Component</module>
+    <module>ASC_11_Autowired</module>
   </modules>
 
   <properties>
