@@ -23,6 +23,7 @@
     <module>ASC_11_Autowired</module>
     <module>ASC_12_Qualifier</module>
     <module>ASC_13_ScopeEtc</module>
+    <module>ASC_14_1_Configuration</module>
   </modules>
 
   <properties>
