@@ -17,7 +17,8 @@
     <module>ASC_06_DependencyInjection</module>
     <module>ASC_07_DependencyInjection2</module>
     <module>ASC_08_BeanScope</module>
-    <module>ASC_09_BeanLifecycle</module>
+    <module>ASC_09_1_BeanLifecycle</module>
+    <module>ASC_09_2_FactoryMethod</module>
   </modules>
 
   <properties>

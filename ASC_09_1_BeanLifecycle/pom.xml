@@ -7,6 +7,6 @@
     <version>1.0-SNAPSHOT</version>
   </parent>
 
-  <artifactId>ASC_09_BeanLifecycle</artifactId>
+  <artifactId>ASC_09_1_BeanLifecycle</artifactId>
 
 </project>
