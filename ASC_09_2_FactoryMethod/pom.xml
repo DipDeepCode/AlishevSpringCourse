@@ -8,5 +8,6 @@
   </parent>
 
   <artifactId>ASC_09_2_FactoryMethod</artifactId>
+  <packaging>war</packaging>
 
 </project>

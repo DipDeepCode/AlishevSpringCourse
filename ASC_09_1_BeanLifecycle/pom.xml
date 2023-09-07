@@ -8,5 +8,6 @@
   </parent>
 
   <artifactId>ASC_09_1_BeanLifecycle</artifactId>
+  <packaging>war</packaging>
 
 </project>

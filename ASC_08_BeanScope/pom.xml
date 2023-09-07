@@ -10,5 +10,6 @@
     </parent>
 
     <artifactId>ASC_08_BeanScope</artifactId>
+    <packaging>war</packaging>
 
 </project>

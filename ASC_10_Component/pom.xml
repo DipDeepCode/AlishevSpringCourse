@@ -8,6 +8,6 @@
   </parent>
 
   <artifactId>ASC_10_Component</artifactId>
-  <packaging>jar</packaging>
+  <packaging>war</packaging>
 
 </project>

@@ -10,5 +10,6 @@
     </parent>
 
     <artifactId>ASC_07_DependencyInjection2</artifactId>
+    <packaging>war</packaging>
 
 </project>
