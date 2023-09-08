@@ -28,6 +28,7 @@
     <module>ASC_16_FirstMVC</module>
     <module>ASC_17_MVCJavaConfiguration</module>
     <module>ASC_18_MVCControllersIntro</module>
+    <module>ASC_20_RequestParam</module>
   </modules>
 
   <properties>
