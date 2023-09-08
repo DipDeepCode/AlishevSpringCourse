@@ -38,6 +38,7 @@
     <module>ASC_27_PreparedStatement</module>
     <module>ASC_28_JdbcTemplate</module>
     <module>ASC_29_DatabaseProperties</module>
+    <module>ASC_30_BatchUpdate</module>
   </modules>
 
   <properties>
