@@ -44,6 +44,7 @@
     <module>ASC_41_2_SpringValidator_Annotation</module>
     <module>ASC_42_PatternValidation</module>
     <module>ASC_43_SelectOption</module>
+    <module>ASC_44_Project1</module>
   </modules>
 
   <properties>
