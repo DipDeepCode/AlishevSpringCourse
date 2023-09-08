@@ -31,6 +31,7 @@
     <module>ASC_20_RequestParam</module>
     <module>ASC_21_Model</module>
     <module>ASC_22_CRUD</module>
+    <module>ASC_23_ModelAttribute</module>
   </modules>
 
   <properties>
