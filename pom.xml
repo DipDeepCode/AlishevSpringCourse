@@ -37,6 +37,7 @@
     <module>ASC_26_JdbcApi</module>
     <module>ASC_27_PreparedStatement</module>
     <module>ASC_28_JdbcTemplate</module>
+    <module>ASC_29_DatabaseProperties</module>
   </modules>
 
   <properties>
