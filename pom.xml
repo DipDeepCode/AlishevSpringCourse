@@ -25,6 +25,7 @@
     <module>ASC_13_ScopeEtc</module>
     <module>ASC_14_1_Configuration</module>
     <module>ASC_14_2_Configuration</module>
+    <module>ASC_16_FirstMVC</module>
   </modules>
 
   <properties>
