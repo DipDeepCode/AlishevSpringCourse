@@ -35,6 +35,7 @@
     <module>ASC_24_PatchDelete</module>
     <module>ASC_25_Validation</module>
     <module>ASC_26_JdbcApi</module>
+    <module>ASC_27_PreparedStatement</module>
   </modules>
 
   <properties>
