@@ -40,6 +40,7 @@
     <module>ASC_29_DatabaseProperties</module>
     <module>ASC_30_BatchUpdate</module>
     <module>ASC_31_Autoincrement</module>
+    <module>ASC_41_1_SpringValidator</module>
   </modules>
 
   <properties>
