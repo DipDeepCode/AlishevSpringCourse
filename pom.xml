@@ -42,6 +42,7 @@
     <module>ASC_31_Autoincrement</module>
     <module>ASC_41_1_SpringValidator</module>
     <module>ASC_41_2_SpringValidator_Annotation</module>
+    <module>ASC_42_PatternValidation</module>
   </modules>
 
   <properties>
