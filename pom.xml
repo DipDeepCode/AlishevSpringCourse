@@ -33,6 +33,7 @@
     <module>ASC_22_CRUD</module>
     <module>ASC_23_ModelAttribute</module>
     <module>ASC_24_PatchDelete</module>
+    <module>ASC_25_Validation</module>
   </modules>
 
   <properties>
