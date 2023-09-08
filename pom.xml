@@ -30,6 +30,7 @@
     <module>ASC_18_MVCControllersIntro</module>
     <module>ASC_20_RequestParam</module>
     <module>ASC_21_Model</module>
+    <module>ASC_22_CRUD</module>
   </modules>
 
   <properties>
