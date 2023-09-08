@@ -26,6 +26,7 @@
     <module>ASC_14_1_Configuration</module>
     <module>ASC_14_2_Configuration</module>
     <module>ASC_16_FirstMVC</module>
+    <module>ASC_17_MVCJavaConfiguration</module>
   </modules>
 
   <properties>
