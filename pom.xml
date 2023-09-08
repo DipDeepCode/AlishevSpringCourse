@@ -36,6 +36,7 @@
     <module>ASC_25_Validation</module>
     <module>ASC_26_JdbcApi</module>
     <module>ASC_27_PreparedStatement</module>
+    <module>ASC_28_JdbcTemplate</module>
   </modules>
 
   <properties>
