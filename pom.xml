@@ -34,6 +34,7 @@
     <module>ASC_23_ModelAttribute</module>
     <module>ASC_24_PatchDelete</module>
     <module>ASC_25_Validation</module>
+    <module>ASC_26_JdbcApi</module>
   </modules>
 
   <properties>
