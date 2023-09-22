@@ -1,0 +1,97 @@
+1 Закрытый чат для учеников
+2 Введение. Зачем изучать Spring?
+3 Первое приложение (IntelliJ Idea).
+4 [НЕОБЯЗАТЕЛЬНЫЙ УРОК] Первое приложение (Eclipse).
+5 Инверсия управления. Inversion of Control (IoC).
+6 Внедрение зависимостей. Dependency Injection (DI). Введение.
+7 Внедрение зависимостей. Dependency Injection (DI). Часть 2.
+8 Bean scope (Область видимости бинов).
+9 Жизненный цикл бина (Bean Lifecycle). Init, Destroy и Factory методы.
+10 Аннотации. Введение.
+11 Аннотация @Autowired. Внедрение зависимостей (Dependency Injection).
+12 Аннотация @Qualifier. Внедрение зависимостей (Dependency Injection).
+13 Аннотации @Scope, @Value, @PostConstruct, @PreDestroy.
+14 Конфигурация с помощью Java кода.
+15 Spring MVC. Теория.
+16 Spring MVC. Первое приложение.
+17 Spring MVC. Конфигурация с помощью Java кода.
+18 Контроллеры. Аннотация @Controller.
+19 Протокол HTTP. Методы GET и POST.
+20 Параметры GET запроса. Аннотация @RequestParam.
+21 Модель. Передача данных от контроллера к представлению.
+22 CRUD, REST, Паттерн DAO (Data Access Object).
+23 Аннотация @ModelAttribute. HTML Формы (Thymeleaf).
+24 CRUD приложение. PATCH, DELETE запросы.
+25 Валидация форм. Аннотация @Valid.
+26 JDBC API. Базы данных.
+27 SQL инъекции. PreparedStatement. JDBC API.
+28 JdbcTemplate.
+29 Конфигурация БД из внешнего файла
+30 Пакетное обновление (Batch update)
+31 Автоматическая генерация значения ID (Автоинкремент, Serial)
+32 Ограничения (Constraints) - NOT NULL, UNIQUE, PRIMARY KEY, CHECK
+33 Отношения (связи) в БД. Внешний ключ (Foreign key)
+34 Отношение Один ко Многим (One to Many)
+35 Отношение Один к Одному (One to One)
+36 Отношение Многие ко Многим (Many to Many)
+37 Объединение таблиц (Database Joins) - INNER JOIN, OUTER JOIN, CROSS JOIN
+38 Практика (SQL и Join'ы)
+39 Индексы в БД
+40 Каскадирование в БД
+41 Spring Validator
+42 Валидация паттернов
+43 Выпадающие списки (select и option)
+44 Проект #1
+45 Реализация проекта #1
+46 Прочтите перед прохождением этого блока
+47 Введение в Hibernate
+48 Первое приложение с Hibernate
+49 Сохранение сущностей в БД
+50 Обновление и удаление сущностей в БД
+51 Язык HQL
+52 Отношение Один ко Многим (One-to-Many) в Hibernate
+53 Жизненный цикл сущности в Hibernate
+54 Каскадирование в Hibernate
+55 Отношение Один к Одному (One-to-One) в Hibernate
+56 Отношение Многие ко Многим (Many-to-Many) в Hibernate
+57 Ленивая загрузка
+58 Spring приложение с Hibernate
+59 Самостоятельное задание
+60 CRUD приложение с Hibernate
+61 Spring Data JPA
+62 Кастомные запросы в Spring Data JPA
+63 Дата и время в Hibernate
+64 Перечисления (Enum) в Hibernate
+65 Проблема N + 1
+66 Методы get() и load()
+67 Пагинация и сортировка
+68 Аннотация @Transient
+69 Проект #2
+70 Реализация проекта #2
+71 Введение в Spring Boot
+72 Первое Spring Boot приложение
+73 Консольный запуск Spring Boot приложения
+74 Более сложное приложение на Spring Boot
+75 Введение в Spring Security
+76 [НЕОБЯЗАТЕЛЬНЫЙ УРОК] Сессии
+77 [НЕОБЯЗАТЕЛЬНЫЙ УРОК] Cookies
+78 Первое приложение с использованием Spring Security
+79 Аутентификация в Spring Security
+80 Аутентификация II (UserDetailsService)
+81 Кастомная страница авторизации
+82 Процесс регистрации в Spring Security
+83 Процесс разлогинивания (logout)
+84 Шифрование
+85 CSRF
+86 Авторизация в Spring Security
+87 Аннотация @PreAuthorize
+88 Введение в Spring REST
+89 Jackson
+90 REST API Клиент
+91 Первое Spring REST приложение
+92 Обработка ошибок в REST API. Аннотация @ExceptionHandler
+93 Прием данных. Аннотация @RequestBody
+94 DTO
+95 Проект #3
+96 Реализация проекта #3
+97 JWT
