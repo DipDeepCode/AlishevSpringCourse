@@ -1,0 +1,1 @@
+insert into person (id, username, year_of_birth, password) values (null, 'test', 1980, 'test');
