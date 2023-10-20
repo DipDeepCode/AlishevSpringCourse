@@ -46,7 +46,6 @@
     <module>ASC_43_SelectOption</module>
     <module>ASC_44_Project1</module>
     <module>ASC_51_HQL</module>
-    <module>ASC_86_Authorization</module>
   </modules>
 
   <properties>
